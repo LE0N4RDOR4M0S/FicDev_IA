@@ -1,0 +1,210 @@
+[
+  {
+    "campo": "data_de_nascimento",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "23/10/1976",
+      "03/04/1975",
+      "03/05/1958",
+      "11/03/1963",
+      "20/06/1969"
+    ]
+  },
+  {
+    "campo": "e_mail",
+    "preenchidos": 80,
+    "percentual_preenchido": 13.47,
+    "exemplos": [
+      "sen.alanrick@senado.leg.br",
+      "sen.alessandrovieira@senado.leg.br",
+      "sen.angelocoronel@senado.leg.br",
+      "sen.astronautamarcospontes@senado.leg.br",
+      "sen.betofaro@senado.leg.br"
+    ]
+  },
+  {
+    "campo": "escritorio_de_apoio",
+    "preenchidos": 74,
+    "percentual_preenchido": 12.46,
+    "exemplos": [
+      "RUA BOM DESTINO, 90. APTº 102. ISAURA PARENTE, RIO BRANCO, AC. CEP:69918-360",
+      "RUA FREI PAULO, 444. SUISSA, ARACAJU, SE. CEP:49052-270",
+      "ALAMEDA DAS FRAMBOESAS, 349. CAMINHO DAS ÁRVORES, SALVADOR, BA. CEP:41820-450",
+      "RUA RIO AZUL, 192. VILA SÔNIA, SÃO PAULO, SP. CEP:05519120",
+      "RUA DESEMBARGADOR LEITE ALBUQUERQUE, 635. SALA 201 - ED. METROPOLITAN EMPRESARIAL. ALDEOTA, FORTALEZA, CE. CEP:60150150"
+    ]
+  },
+  {
+    "campo": "fax",
+    "preenchidos": 1,
+    "percentual_preenchido": 0.17,
+    "exemplos": [
+      "(61) 3303-9828"
+    ]
+  },
+  {
+    "campo": "gabinete",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "Senado Federal Anexo 2 Ala Teotônio Vilela Gabinete 05",
+      "Senado Federal Anexo 2 Ala Affonso Arinos Gabinete 08",
+      "Senado Federal Anexo 1 7º Pavimento",
+      "Senado Federal Anexo 2 Ala Nilo Coelho Pavimento Térreo Gabinete 08",
+      "Senado Federal Anexo 2 Ala Teotônio Vilela Gabinete 08"
+    ]
+  },
+  {
+    "campo": "naturalidade",
+    "preenchidos": 77,
+    "percentual_preenchido": 12.96,
+    "exemplos": [
+      "Rio Branco (AC)",
+      "Passo Fundo (RS)",
+      "Coração de Maria (BA)",
+      "Bauru (SP)",
+      "Bujaru (PA)"
+    ]
+  },
+  {
+    "campo": "nome_civil",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "Alan Rick Miranda",
+      "Alessandro Vieira",
+      "Angelo Mario Coronel de Azevedo Martins",
+      "Marcos Cesar Pontes",
+      "José Roberto Oliveira Faro"
+    ]
+  },
+  {
+    "campo": "perfil_descricao",
+    "preenchidos": 594,
+    "percentual_preenchido": 100.0,
+    "exemplos": [
+      "Página do(a) Deputado(a) Acácio Favacho na Câmara dos Deputados",
+      "Página do(a) Deputado(a) Adail Filho na Câmara dos Deputados",
+      "Página do(a) Deputado(a) Adilson Barroso na Câmara dos Deputados",
+      "Página do(a) Deputado(a) Adolfo Viana na Câmara dos Deputados",
+      "Página do(a) Deputado(a) Adriana Ventura na Câmara dos Deputados"
+    ]
+  },
+  {
+    "campo": "perfil_foto",
+    "preenchidos": 513,
+    "percentual_preenchido": 86.36,
+    "exemplos": [
+      "https://www.camara.leg.br/internet/deputado/bandep/pagina_do_deputado/204379.jpg",
+      "https://www.camara.leg.br/internet/deputado/bandep/pagina_do_deputado/220714.jpg",
+      "https://www.camara.leg.br/internet/deputado/bandep/pagina_do_deputado/221328.jpg",
+      "https://www.camara.leg.br/internet/deputado/bandep/pagina_do_deputado/204560.jpg",
+      "https://www.camara.leg.br/internet/deputado/bandep/pagina_do_deputado/204528.jpg"
+    ]
+  },
+  {
+    "campo": "perfil_titulo",
+    "preenchidos": 594,
+    "percentual_preenchido": 100.0,
+    "exemplos": [
+      "Deputado Federal Acácio Favacho - Portal da Câmara dos Deputados",
+      "Deputado Federal Adail Filho - Portal da Câmara dos Deputados",
+      "Deputado Federal Adilson Barroso - Portal da Câmara dos Deputados",
+      "Deputado Federal Adolfo Viana - Portal da Câmara dos Deputados",
+      "Deputada Federal Adriana Ventura - Portal da Câmara dos Deputados"
+    ]
+  },
+  {
+    "campo": "sf_ano",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "2023,2024,2025,2026,2027,2028,2029,2030,2031",
+      "2019,2020,2021,2022,2023,2024,2025,2026,2027",
+      "2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,2011,2012,2013,2014,2015",
+      "2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,2030,2031,2015",
+      "2019,2020,2021,2022,1991,2023,1992,2024,1993,2025,1994,2026,1995,2027,1996,1997,1998,1999"
+    ]
+  },
+  {
+    "campo": "sf_comissao",
+    "preenchidos": 80,
+    "percentual_preenchido": 13.47,
+    "exemplos": [
+      "CAE,CAS,CCJ,CDR,CE,CEsp,CMO,CPCMS,CRA,CRE,DJEM,FPAMM,FPE,FPEMBRAPA,FPEpTec,FPMDM,FPMDPI,FPMPBAS,FPRNE,GPARGENTINA,GPBAHREIN,GPCHIPRE,GPEUA,GPISRAEL,GPJAPÃO,GPPERU",
+      "CAE,CCDD,CCJ,CCT,CDH,CDR,CE,CMA,CMCVM,CPCMS,CSP,CTFC,FPCIBERSEG,FPEpTec,FPINVESTEBRASIL,FPJOVEM,FPMA,FPMPBAS,FPTRB,GPISRAEL,GPVENEZUELA,PAT,PROPAR",
+      "CAE,CAS,CDR,CI,CMA,CPCMS,CRA,CRE,CSP,CTCIVIL,FPAMM,FPDEPMEB,FPELETROMOBILIDADE,FPINVESTEBRASIL,FPJOVEM,FPMA,GPARABIASAUDITA,GPBOLIVIA,GP-BRICS-SF,GPCAZAQUISTÃO,GPCHINA,GPEUA,GPFRANCA,GPINDIA,GPISRAEL,GPJAPÃO,GPLÍBANO,GPMARROCOS,GPSUIÇA,GPUCRANIA,PAT",
+      "CAS,CCDD,CCT,CDH,CDR,CE,CI,CRE,CREDC,CSP,CTCIVIL,FPAMM,FPBSJA,FPC,FPCIBERSEG,FPDNB,FPELETROMOBILIDADE,FPEMSN,FPEpTec,FPFARMA,FPINVESTEBRASIL,FPMDFAV,FPMDM,FPMPBAS,FPRNE,FPSTARTUPS,FPTRB,GPARABIASAUDITA,GPBOLIVIA,GPCAZAQUISTÃO,GPCHINA,GPEUA,GPFRANCA,GPINDIA,GPISRAEL,GPJAPÃO,GPLÍBANO,GPRCOREIA",
+      "CCT,CDR,CI,CMA,CRA,CRE,CTFC,GP-BRICS-SF"
+    ]
+  },
+  {
+    "campo": "sf_legislatura",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "58ª Legislatura,57ª Legislatura",
+      "56ª Legislatura,57ª Legislatura",
+      "56ª Legislatura,58ª Legislatura,57ª Legislatura",
+      "54ª Legislatura,55ª Legislatura,56ª Legislatura,57ª Legislatura",
+      "55ª Legislatura,56ª Legislatura,58ª Legislatura,57ª Legislatura"
+    ]
+  },
+  {
+    "campo": "sf_partido",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "REPUBLICANOS",
+      "MDB",
+      "PL",
+      "PT",
+      "PSD"
+    ]
+  },
+  {
+    "campo": "sf_senador",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "Alan Rick",
+      "Alessandro Vieira",
+      "Angelo Coronel",
+      "Astronauta Marcos Pontes",
+      "Beto Faro"
+    ]
+  },
+  {
+    "campo": "sf_uf",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "AC",
+      "SE",
+      "BA",
+      "SP",
+      "PA"
+    ]
+  },
+  {
+    "campo": "site_pessoal",
+    "preenchidos": 19,
+    "percentual_preenchido": 3.2,
+    "exemplos": [
+      "Site pessoal (página de responsabilidade do gabinete do senador)"
+    ]
+  },
+  {
+    "campo": "telefones",
+    "preenchidos": 81,
+    "percentual_preenchido": 13.64,
+    "exemplos": [
+      "(61) 3303-6333",
+      "(61) 3303-9011 / 9014",
+      "(61) 3303-6103 / 6105",
+      "(61) 3303-1177 / 1797",
+      "(61) 3303-5220"
+    ]
+  }
+]

@@ -1,0 +1,4754 @@
+[
+  {
+    "nome": "Deputado Acácio Favacho",
+    "partido": "MDB",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204379"
+  },
+  {
+    "nome": "Deputado Adail Filho",
+    "partido": "MDB",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220714"
+  },
+  {
+    "nome": "Deputado Adilson Barroso",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/221328"
+  },
+  {
+    "nome": "Deputado Adolfo Viana",
+    "partido": "PSDB",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204560"
+  },
+  {
+    "nome": "Deputada Adriana Ventura",
+    "partido": "NOVO",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204528"
+  },
+  {
+    "nome": "Deputado Adriano Do Baldy",
+    "partido": "PP",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/121948"
+  },
+  {
+    "nome": "Deputado Aécio Neves",
+    "partido": "PSDB",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74646"
+  },
+  {
+    "nome": "Deputado Afonso Florence",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160508"
+  },
+  {
+    "nome": "Deputado Afonso Hamm",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/136811"
+  },
+  {
+    "nome": "Deputado Afonso Motta",
+    "partido": "PDT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178835"
+  },
+  {
+    "nome": "Deputado Aguinaldo Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160527"
+  },
+  {
+    "nome": "Deputado Airton Faleiro",
+    "partido": "PT",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204495"
+  },
+  {
+    "nome": "Deputado Aj Albuquerque",
+    "partido": "PP",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204549"
+  },
+  {
+    "nome": "Senador Alan Rick",
+    "partido": "REPUBLICANOS",
+    "uf": "AC",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5672"
+  },
+  {
+    "nome": "Deputado Alberto Fraga",
+    "partido": "PL",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73579"
+  },
+  {
+    "nome": "Deputado Albuquerque",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220538"
+  },
+  {
+    "nome": "Deputado Alceu Moreira",
+    "partido": "MDB",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160559"
+  },
+  {
+    "nome": "Deputado Alencar Santana",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204501"
+  },
+  {
+    "nome": "Senador Alessandro Vieira",
+    "partido": "MDB",
+    "uf": "SE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5982"
+  },
+  {
+    "nome": "Deputado Alexandre Guimarães",
+    "partido": "MDB",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220542"
+  },
+  {
+    "nome": "Deputado Alexandre Leite",
+    "partido": "UNIÃO",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160545"
+  },
+  {
+    "nome": "Deputado Alexandre Lindenmeyer",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220554"
+  },
+  {
+    "nome": "Deputado Alex Manente",
+    "partido": "CIDADANIA",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178972"
+  },
+  {
+    "nome": "Deputado Alfredinho",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/221148"
+  },
+  {
+    "nome": "Deputado Alfredo Gaspar",
+    "partido": "PL",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220576"
+  },
+  {
+    "nome": "Deputada Alice Portugal",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74057"
+  },
+  {
+    "nome": "Deputado Aliel Machado",
+    "partido": "PV",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178927"
+  },
+  {
+    "nome": "Deputada Aline Gurgel",
+    "partido": "UNIÃO",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204353"
+  },
+  {
+    "nome": "Deputado Altineu Côrtes",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178937"
+  },
+  {
+    "nome": "Deputado Aluisio Mendes",
+    "partido": "REPUBLICANOS",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178881"
+  },
+  {
+    "nome": "Deputada Amanda Gentil",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220707"
+  },
+  {
+    "nome": "Deputado Amaro Neto",
+    "partido": "PP",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204356"
+  },
+  {
+    "nome": "Deputado Amom Mandel",
+    "partido": "REPUBLICANOS",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220715"
+  },
+  {
+    "nome": "Deputada Ana Paula Leão",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/107970"
+  },
+  {
+    "nome": "Deputada Ana Paula Lima",
+    "partido": "PT",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220556"
+  },
+  {
+    "nome": "Deputada Ana Pimentel",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220632"
+  },
+  {
+    "nome": "Deputado André Abdon",
+    "partido": "PP",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178831"
+  },
+  {
+    "nome": "Deputado André Fernandes",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220657"
+  },
+  {
+    "nome": "Deputado André Ferreira",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204423"
+  },
+  {
+    "nome": "Deputado André Figueiredo",
+    "partido": "PDT",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/133439"
+  },
+  {
+    "nome": "Deputado André Fufuca",
+    "partido": "PP",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178882"
+  },
+  {
+    "nome": "Deputada Andreia Siqueira",
+    "partido": "PSB",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220676"
+  },
+  {
+    "nome": "Deputado André Janones",
+    "partido": "REDE",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204515"
+  },
+  {
+    "nome": "Senador Angelo Coronel",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5967"
+  },
+  {
+    "nome": "Deputada Antônia Lúcia",
+    "partido": "MDB",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/123756"
+  },
+  {
+    "nome": "Deputado Antonio Andrade",
+    "partido": "PSDB",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220544"
+  },
+  {
+    "nome": "Deputado Antonio Brito",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160553"
+  },
+  {
+    "nome": "Deputado Antonio Carlos Rodrigues",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220638"
+  },
+  {
+    "nome": "Deputado Antônio Doido",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220675"
+  },
+  {
+    "nome": "Deputada Any Ortiz",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220549"
+  },
+  {
+    "nome": "Deputado Arlindo Chinaglia",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73433"
+  },
+  {
+    "nome": "Deputado Arnaldo Jardim",
+    "partido": "CIDADANIA",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141391"
+  },
+  {
+    "nome": "Deputado Arthur Lira",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160541"
+  },
+  {
+    "nome": "Deputado Arthur Oliveira Maia",
+    "partido": "UNIÃO",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160600"
+  },
+  {
+    "nome": "Senador Astronauta Marcos Pontes",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6009"
+  },
+  {
+    "nome": "Deputado Átila Lins",
+    "partido": "PSD",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74090"
+  },
+  {
+    "nome": "Deputado Átila Lira",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/123086"
+  },
+  {
+    "nome": "Deputado Augusto Coutinho",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160665"
+  },
+  {
+    "nome": "Deputado Aureo Ribeiro",
+    "partido": "SOLIDARIEDADE",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160512"
+  },
+  {
+    "nome": "Deputado Bacelar",
+    "partido": "PV",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/69871"
+  },
+  {
+    "nome": "Deputado Baleia Rossi",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178975"
+  },
+  {
+    "nome": "Deputado Bandeira De Mello",
+    "partido": "PV",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220605"
+  },
+  {
+    "nome": "Deputado Bebeto",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220612"
+  },
+  {
+    "nome": "Deputada Benedita Da Silva",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73701"
+  },
+  {
+    "nome": "Deputado Benes Leocádio",
+    "partido": "UNIÃO",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/109429"
+  },
+  {
+    "nome": "Senador Beto Faro",
+    "partido": "PT",
+    "uf": "PA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4639"
+  },
+  {
+    "nome": "Deputado Beto Pereira",
+    "partido": "REPUBLICANOS",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204358"
+  },
+  {
+    "nome": "Deputado Beto Preto",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220698"
+  },
+  {
+    "nome": "Deputado Beto Richa",
+    "partido": "PSDB",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220683"
+  },
+  {
+    "nome": "Deputada Bia Kicis",
+    "partido": "PL",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204374"
+  },
+  {
+    "nome": "Deputado Bibo Nunes",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204388"
+  },
+  {
+    "nome": "Deputado Bohn Gass",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160538"
+  },
+  {
+    "nome": "Deputado Bruno Farias",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/210989"
+  },
+  {
+    "nome": "Deputado Bruno Ganem",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220635"
+  },
+  {
+    "nome": "Deputado Cabo Gilberto Silva",
+    "partido": "PL",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220574"
+  },
+  {
+    "nome": "Deputada Camila Jara",
+    "partido": "PT",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220548"
+  },
+  {
+    "nome": "Senador Camilo Santana",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6336"
+  },
+  {
+    "nome": "Deputado Capitão Alberto Neto",
+    "partido": "PL",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204572"
+  },
+  {
+    "nome": "Deputado Capitão Alden",
+    "partido": "PL",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220690"
+  },
+  {
+    "nome": "Deputado Capitão Augusto",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178829"
+  },
+  {
+    "nome": "Deputada Carla Dickson",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/213762"
+  },
+  {
+    "nome": "Deputado Carlos Chiodini",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204361"
+  },
+  {
+    "nome": "Senador Carlos Fávaro",
+    "partido": "PSD",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6295"
+  },
+  {
+    "nome": "Deputado Carlos Gomes",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178962"
+  },
+  {
+    "nome": "Deputado Carlos Henrique Gaguim",
+    "partido": "UNIÃO",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178993"
+  },
+  {
+    "nome": "Deputado Carlos Jordy",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204460"
+  },
+  {
+    "nome": "Senador Carlos Portinho",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5936"
+  },
+  {
+    "nome": "Deputado Carlos Sampaio",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74262"
+  },
+  {
+    "nome": "Deputado Carlos Veras",
+    "partido": "PT",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204426"
+  },
+  {
+    "nome": "Senador Carlos Viana",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5990"
+  },
+  {
+    "nome": "Deputado Carlos Zarattini",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141398"
+  },
+  {
+    "nome": "Deputada Carol Dartora",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220704"
+  },
+  {
+    "nome": "Deputada Caroline De Toni",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204369"
+  },
+  {
+    "nome": "Deputado Castro Neto",
+    "partido": "MDB",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220699"
+  },
+  {
+    "nome": "Deputada Célia Xakriabá",
+    "partido": "PSOL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/206018"
+  },
+  {
+    "nome": "Deputado Célio Silveira",
+    "partido": "MDB",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178876"
+  },
+  {
+    "nome": "Deputado Célio Studart",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204488"
+  },
+  {
+    "nome": "Deputado Celso Russomanno",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73441"
+  },
+  {
+    "nome": "Deputado Celso Sabino",
+    "partido": "PDT",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204496"
+  },
+  {
+    "nome": "Deputado Cezinha De Madureira",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204504"
+  },
+  {
+    "nome": "Deputado Charles Fernandes",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/205476"
+  },
+  {
+    "nome": "Deputado Chico Alencar",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74171"
+  },
+  {
+    "nome": "Senador Chico Rodrigues",
+    "partido": "PSB",
+    "uf": "RR",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/470"
+  },
+  {
+    "nome": "Deputada Chris Tonietto",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204462"
+  },
+  {
+    "nome": "Senador Cid Gomes",
+    "partido": "PSB",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5973"
+  },
+  {
+    "nome": "Senador Ciro Nogueira",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/739"
+  },
+  {
+    "nome": "Deputada Clarissa Tércio",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220665"
+  },
+  {
+    "nome": "Deputado Claudio Cajado",
+    "partido": "PP",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74537"
+  },
+  {
+    "nome": "Deputado Cleber Verde",
+    "partido": "MDB",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141408"
+  },
+  {
+    "nome": "Senador Cleitinho",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6337"
+  },
+  {
+    "nome": "Deputado Clodoaldo Magalhães",
+    "partido": "PV",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/88256"
+  },
+  {
+    "nome": "Deputado Cobalchini",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/98148"
+  },
+  {
+    "nome": "Senador Confúcio Moura",
+    "partido": "MDB",
+    "uf": "RO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/475"
+  },
+  {
+    "nome": "Deputado Coronel Assis",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220594"
+  },
+  {
+    "nome": "Deputado Coronel Chrisóstomo",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204378"
+  },
+  {
+    "nome": "Deputada Coronel Fernanda",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220595"
+  },
+  {
+    "nome": "Deputado Coronel Meira",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220666"
+  },
+  {
+    "nome": "Deputado Coronel Ulysses",
+    "partido": "UNIÃO",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220590"
+  },
+  {
+    "nome": "Deputado Covatti Filho",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178963"
+  },
+  {
+    "nome": "Deputada Cristiane Lopes",
+    "partido": "PODE",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220608"
+  },
+  {
+    "nome": "Deputado Dagoberto Nogueira",
+    "partido": "PP",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141411"
+  },
+  {
+    "nome": "Deputada Daiana Santos",
+    "partido": "PCdoB",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220555"
+  },
+  {
+    "nome": "Deputado Dal Barreto",
+    "partido": "UNIÃO",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220692"
+  },
+  {
+    "nome": "Senadora Damares Alves",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6335"
+  },
+  {
+    "nome": "Deputado Damião Feliciano",
+    "partido": "UNIÃO",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74467"
+  },
+  {
+    "nome": "Deputada Dandara",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220629"
+  },
+  {
+    "nome": "Deputada Dani Cunha",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220603"
+  },
+  {
+    "nome": "Deputada Daniela Do Waguinho",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204459"
+  },
+  {
+    "nome": "Deputado Daniel Agrobom",
+    "partido": "PSD",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220571"
+  },
+  {
+    "nome": "Deputado Daniel Almeida",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74060"
+  },
+  {
+    "nome": "Deputada Daniela Reinehr",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220557"
+  },
+  {
+    "nome": "Deputado Daniel Barbosa",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220582"
+  },
+  {
+    "nome": "Deputado Daniel Freitas",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204367"
+  },
+  {
+    "nome": "Senadora Daniella Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5998"
+  },
+  {
+    "nome": "Deputado Daniel Trzeciak",
+    "partido": "PSDB",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204409"
+  },
+  {
+    "nome": "Deputado Danilo Forte",
+    "partido": "PP",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/62881"
+  },
+  {
+    "nome": "Deputado Danrlei De Deus Hinterholz",
+    "partido": "PSD",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160552"
+  },
+  {
+    "nome": "Senador Davi Alcolumbre",
+    "partido": "UNIÃO",
+    "uf": "AP",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830"
+  },
+  {
+    "nome": "Deputado David Soares",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204511"
+  },
+  {
+    "nome": "Deputado Da Vitoria",
+    "partido": "PP",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204355"
+  },
+  {
+    "nome": "Deputado Defensor Stélio Dener",
+    "partido": "UNIÃO",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220539"
+  },
+  {
+    "nome": "Deputada Delegada Adriana Accorsi",
+    "partido": "PT",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220565"
+  },
+  {
+    "nome": "Deputada Delegada Ione",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220625"
+  },
+  {
+    "nome": "Deputada Delegada Katarina",
+    "partido": "PSD",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220561"
+  },
+  {
+    "nome": "Deputado Delegado Bruno Lima",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220642"
+  },
+  {
+    "nome": "Deputado Delegado Caveira",
+    "partido": "PL",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220673"
+  },
+  {
+    "nome": "Deputado Delegado Da Cunha",
+    "partido": "UNIÃO",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220649"
+  },
+  {
+    "nome": "Deputado Delegado Éder Mauro",
+    "partido": "PL",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178908"
+  },
+  {
+    "nome": "Deputado Delegado Fabio Costa",
+    "partido": "PP",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220583"
+  },
+  {
+    "nome": "Deputado Delegado Marcelo Freitas",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204512"
+  },
+  {
+    "nome": "Deputado Delegado Matheus Laiola",
+    "partido": "UNIÃO",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220701"
+  },
+  {
+    "nome": "Deputado Delegado Palumbo",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220652"
+  },
+  {
+    "nome": "Deputado Delegado Paulo Bilynskyj",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220654"
+  },
+  {
+    "nome": "Deputada Denise Pessôa",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220553"
+  },
+  {
+    "nome": "Deputada Detinha",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220689"
+  },
+  {
+    "nome": "Deputado Diego Andrade",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160588"
+  },
+  {
+    "nome": "Deputado Diego Coronel",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220691"
+  },
+  {
+    "nome": "Deputado Diego Garcia",
+    "partido": "UNIÃO",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178929"
+  },
+  {
+    "nome": "Deputado Dilceu Sperafico",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73768"
+  },
+  {
+    "nome": "Deputada Dilvanda Faro",
+    "partido": "PT",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220671"
+  },
+  {
+    "nome": "Deputado Dimas Fabiano",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160599"
+  },
+  {
+    "nome": "Deputado Dimas Gadelha",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220602"
+  },
+  {
+    "nome": "Deputado Domingos Neto",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/143632"
+  },
+  {
+    "nome": "Deputado Domingos Sávio",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160758"
+  },
+  {
+    "nome": "Deputado Dorinaldo Malafaia",
+    "partido": "PDT",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220573"
+  },
+  {
+    "nome": "Deputado Doutor Luizinho",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204450"
+  },
+  {
+    "nome": "Deputado Dr. Daniel Soranz",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220614"
+  },
+  {
+    "nome": "Deputado Dr. Fernando Máximo",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220610"
+  },
+  {
+    "nome": "Deputado Dr. Francisco",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220688"
+  },
+  {
+    "nome": "Deputado Dr. Frederico",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204518"
+  },
+  {
+    "nome": "Senador Dr. Hiran",
+    "partido": "PP",
+    "uf": "RR",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5793"
+  },
+  {
+    "nome": "Deputado Dr. Ismael Alexandrino",
+    "partido": "PSD",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220570"
+  },
+  {
+    "nome": "Deputado Dr. Jaziel",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204481"
+  },
+  {
+    "nome": "Deputado Dr. Luiz Ovando",
+    "partido": "PP",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204351"
+  },
+  {
+    "nome": "Deputado Dr. Victor Linhalis",
+    "partido": "PSB",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220528"
+  },
+  {
+    "nome": "Deputado Dr. Zacharias Calil",
+    "partido": "MDB",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204412"
+  },
+  {
+    "nome": "Deputada Dra. Alessandra Haber",
+    "partido": "PODE",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220674"
+  },
+  {
+    "nome": "Senadora Dra. Eudócia",
+    "partido": "PSDB",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5906"
+  },
+  {
+    "nome": "Deputado Dr Flávio",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/227991"
+  },
+  {
+    "nome": "Deputado Duarte Jr.",
+    "partido": "AVANTE",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220686"
+  },
+  {
+    "nome": "Deputado Duda Ramos",
+    "partido": "PODE",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220540"
+  },
+  {
+    "nome": "Deputada Duda Salabert",
+    "partido": "PSOL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220623"
+  },
+  {
+    "nome": "Deputado Eduardo Bismarck",
+    "partido": "PV",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204541"
+  },
+  {
+    "nome": "Senador Eduardo Braga",
+    "partido": "MDB",
+    "uf": "AM",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4994"
+  },
+  {
+    "nome": "Deputado Eduardo Da Fonte",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141421"
+  },
+  {
+    "nome": "Senador Eduardo Girão",
+    "partido": "NOVO",
+    "uf": "CE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976"
+  },
+  {
+    "nome": "Senador Eduardo Gomes",
+    "partido": "PL",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/3777"
+  },
+  {
+    "nome": "Deputado Eduardo Velloso",
+    "partido": "SOLIDARIEDADE",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220589"
+  },
+  {
+    "nome": "Senador Efraim Filho",
+    "partido": "PL",
+    "uf": "PB",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4642"
+  },
+  {
+    "nome": "Deputada Elcione Barbalho",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74075"
+  },
+  {
+    "nome": "Deputado Eli Borges",
+    "partido": "REPUBLICANOS",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204364"
+  },
+  {
+    "nome": "Senadora Eliziane Gama",
+    "partido": "PSD",
+    "uf": "MA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5718"
+  },
+  {
+    "nome": "Deputado Elmar Nascimento",
+    "partido": "UNIÃO",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178854"
+  },
+  {
+    "nome": "Deputado Emanuel Pinheiro Neto",
+    "partido": "PSD",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/198783"
+  },
+  {
+    "nome": "Deputado Emidinho Madeira",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/161550"
+  },
+  {
+    "nome": "Deputada Enfermeira Rejane",
+    "partido": "PCdoB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/230765"
+  },
+  {
+    "nome": "Deputado Eriberto Medeiros",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220663"
+  },
+  {
+    "nome": "Deputada Erika Hilton",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220645"
+  },
+  {
+    "nome": "Deputada Erika Kokay",
+    "partido": "PT",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160575"
+  },
+  {
+    "nome": "Deputado Eros Biondini",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160640"
+  },
+  {
+    "nome": "Senador Esperidião Amin",
+    "partido": "PP",
+    "uf": "SC",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/22"
+  },
+  {
+    "nome": "Deputado Euclydes Pettersen",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204482"
+  },
+  {
+    "nome": "Deputado Eunício Oliveira",
+    "partido": "MDB",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74454"
+  },
+  {
+    "nome": "Deputado Evair Vieira De Melo",
+    "partido": "REPUBLICANOS",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178871"
+  },
+  {
+    "nome": "Senador Fabiano Contarato",
+    "partido": "PT",
+    "uf": "ES",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5953"
+  },
+  {
+    "nome": "Deputado Fabio Garcia",
+    "partido": "UNIÃO",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178905"
+  },
+  {
+    "nome": "Deputado Fábio Macedo",
+    "partido": "PODE",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220681"
+  },
+  {
+    "nome": "Deputado Fabio Reis",
+    "partido": "PSD",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/171623"
+  },
+  {
+    "nome": "Deputado Fabio Schiochet",
+    "partido": "UNIÃO",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204368"
+  },
+  {
+    "nome": "Deputado Fábio Teruel",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220653"
+  },
+  {
+    "nome": "Deputado Fausto Jr.",
+    "partido": "UNIÃO",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220712"
+  },
+  {
+    "nome": "Deputado Fausto Pinato",
+    "partido": "UNIÃO",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/66828"
+  },
+  {
+    "nome": "Deputado Felipe Becari",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220646"
+  },
+  {
+    "nome": "Deputado Felipe Carreras",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/72442"
+  },
+  {
+    "nome": "Deputado Felipe Francischini",
+    "partido": "PODE",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204398"
+  },
+  {
+    "nome": "Deputado Félix Mendonça Júnior",
+    "partido": "PDT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160666"
+  },
+  {
+    "nome": "Deputada Fernanda Melchionna",
+    "partido": "PSOL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204407"
+  },
+  {
+    "nome": "Deputada Fernanda Pessoa",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220656"
+  },
+  {
+    "nome": "Deputado Fernando Coelho Filho",
+    "partido": "UNIÃO",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141431"
+  },
+  {
+    "nome": "Senador Fernando Dueire",
+    "partido": "PSD",
+    "uf": "PE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5917"
+  },
+  {
+    "nome": "Deputado Fernando Mineiro",
+    "partido": "PT",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204445"
+  },
+  {
+    "nome": "Deputado Fernando Monteiro",
+    "partido": "PSD",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/92699"
+  },
+  {
+    "nome": "Deputado Fernando Rodolfo",
+    "partido": "PRD",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204427"
+  },
+  {
+    "nome": "Deputado Filipe Barros",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204411"
+  },
+  {
+    "nome": "Deputado Filipe Martins",
+    "partido": "PL",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220545"
+  },
+  {
+    "nome": "Deputada Flávia Morais",
+    "partido": "MDB",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160598"
+  },
+  {
+    "nome": "Senador Flávio Arns",
+    "partido": "PSB",
+    "uf": "PR",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/345"
+  },
+  {
+    "nome": "Senador Flávio Bolsonaro",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+  },
+  {
+    "nome": "Deputado Flávio Nogueira",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/191923"
+  },
+  {
+    "nome": "Deputado Florentino Neto",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220700"
+  },
+  {
+    "nome": "Deputada Franciane Bayer",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220551"
+  },
+  {
+    "nome": "Deputado Fred Costa",
+    "partido": "PRD",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204494"
+  },
+  {
+    "nome": "Deputado Fred Linhares",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220534"
+  },
+  {
+    "nome": "Deputado Gabriel Mota",
+    "partido": "UNIÃO",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/224117"
+  },
+  {
+    "nome": "Deputado Gabriel Nunes",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220708"
+  },
+  {
+    "nome": "Deputado General Girão",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204473"
+  },
+  {
+    "nome": "Deputado General Pazuello",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220611"
+  },
+  {
+    "nome": "Deputada Geovania De Sá",
+    "partido": "REPUBLICANOS",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178966"
+  },
+  {
+    "nome": "Deputado Geraldo Mendes",
+    "partido": "UNIÃO",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220702"
+  },
+  {
+    "nome": "Deputado Geraldo Resende",
+    "partido": "UNIÃO",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74374"
+  },
+  {
+    "nome": "Deputado Gervásio Maia",
+    "partido": "PCdoB",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204394"
+  },
+  {
+    "nome": "Deputado Gilberto Abramo",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204491"
+  },
+  {
+    "nome": "Deputado Gilberto Nascimento",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74270"
+  },
+  {
+    "nome": "Deputado Gilson Daniel",
+    "partido": "PODE",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220529"
+  },
+  {
+    "nome": "Deputado Gilson Marques",
+    "partido": "NOVO",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204365"
+  },
+  {
+    "nome": "Deputado Gilvan Da Federal",
+    "partido": "PL",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220526"
+  },
+  {
+    "nome": "Senador Giordano",
+    "partido": "PODEMOS",
+    "uf": "SP",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6008"
+  },
+  {
+    "nome": "Deputado Giovani Cherini",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160673"
+  },
+  {
+    "nome": "Deputado Glauber Braga",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/152605"
+  },
+  {
+    "nome": "Deputado Glaustin Da Fokus",
+    "partido": "PODE",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204419"
+  },
+  {
+    "nome": "Deputado Glaycon Franco",
+    "partido": "PSDB",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/236284"
+  },
+  {
+    "nome": "Deputada Gleisi Hoffmann",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/107283"
+  },
+  {
+    "nome": "Deputada Greyce Elias",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/198197"
+  },
+  {
+    "nome": "Deputado Guilherme Derrite",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204531"
+  },
+  {
+    "nome": "Deputado Guilherme Uchoa",
+    "partido": "PSD",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220664"
+  },
+  {
+    "nome": "Deputado Gustavo Gayer",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220568"
+  },
+  {
+    "nome": "Deputado Gustinho Ribeiro",
+    "partido": "PP",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204408"
+  },
+  {
+    "nome": "Deputado Gutemberg Reis",
+    "partido": "MDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204456"
+  },
+  {
+    "nome": "Senador Hamilton Mourão",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6341"
+  },
+  {
+    "nome": "Deputado Heitor Schuch",
+    "partido": "PSD",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178964"
+  },
+  {
+    "nome": "Deputado Helder Salomão",
+    "partido": "PT",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178873"
+  },
+  {
+    "nome": "Deputada Helena Lima",
+    "partido": "PSD",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220537"
+  },
+  {
+    "nome": "Deputado Helio Lopes",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204444"
+  },
+  {
+    "nome": "Deputado Henderson Pinto",
+    "partido": "UNIÃO",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220672"
+  },
+  {
+    "nome": "Deputado Hercílio Coelho Diniz",
+    "partido": "MDB",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204539"
+  },
+  {
+    "nome": "Senador Hermes Klann",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6381"
+  },
+  {
+    "nome": "Deputado Hugo Leal",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141450"
+  },
+  {
+    "nome": "Deputado Hugo Motta",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160674"
+  },
+  {
+    "nome": "Senador Humberto Costa",
+    "partido": "PT",
+    "uf": "PE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5008"
+  },
+  {
+    "nome": "Deputado Icaro De Valmir",
+    "partido": "REPUBLICANOS",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220563"
+  },
+  {
+    "nome": "Deputado Idilvan Alencar",
+    "partido": "PSB",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204533"
+  },
+  {
+    "nome": "Deputado Igor Timo",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204508"
+  },
+  {
+    "nome": "Deputado Inácio Arruda",
+    "partido": "PCdoB",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74295"
+  },
+  {
+    "nome": "Senador Irajá",
+    "partido": "PSD",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5385"
+  },
+  {
+    "nome": "Deputado Ismael",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/98615"
+  },
+  {
+    "nome": "Deputado Isnaldo Bulhões Jr.",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204436"
+  },
+  {
+    "nome": "Deputado Itamar Paim",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/225846"
+  },
+  {
+    "nome": "Senadora Ivete da Silveira",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6010"
+  },
+  {
+    "nome": "Deputada Ivoneide Caetano",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220696"
+  },
+  {
+    "nome": "Deputada Iza Arruda",
+    "partido": "MDB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220670"
+  },
+  {
+    "nome": "Senador Izalci Lucas",
+    "partido": "PL",
+    "uf": "DF",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4770"
+  },
+  {
+    "nome": "Deputada Jack Rocha",
+    "partido": "PT",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220527"
+  },
+  {
+    "nome": "Senador Jader Barbalho",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/35"
+  },
+  {
+    "nome": "Deputado Jadyel Alencar",
+    "partido": "REPUBLICANOS",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220697"
+  },
+  {
+    "nome": "Senador Jaime Bagattoli",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6340"
+  },
+  {
+    "nome": "Deputada Jandira Feghali",
+    "partido": "PCdoB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74848"
+  },
+  {
+    "nome": "Senador Jaques Wagner",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/581"
+  },
+  {
+    "nome": "Senador Jayme Campos",
+    "partido": "UNIÃO",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4531"
+  },
+  {
+    "nome": "Deputado Jeferson Rodrigues",
+    "partido": "PSDB",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220567"
+  },
+  {
+    "nome": "Deputado Jefferson Campos",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74273"
+  },
+  {
+    "nome": "Deputado Jilmar Tatto",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141456"
+  },
+  {
+    "nome": "Deputado João Carlos",
+    "partido": "REPUBLICANOS",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/235869"
+  },
+  {
+    "nome": "Deputado João Carlos Bacelar",
+    "partido": "PL",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141458"
+  },
+  {
+    "nome": "Deputado João Cury",
+    "partido": "MDB",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/230957"
+  },
+  {
+    "nome": "Deputado João Daniel",
+    "partido": "PT",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178970"
+  },
+  {
+    "nome": "Deputado João Maia",
+    "partido": "PP",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141459"
+  },
+  {
+    "nome": "Deputado Joaquim Passarinho",
+    "partido": "PL",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178910"
+  },
+  {
+    "nome": "Deputado Jonas Donizette",
+    "partido": "PSB",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160548"
+  },
+  {
+    "nome": "Deputado Jorge Araújo",
+    "partido": "PP",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/235800"
+  },
+  {
+    "nome": "Deputado Jorge Braz",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/205550"
+  },
+  {
+    "nome": "Deputado Jorge Goetten",
+    "partido": "REPUBLICANOS",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/214694"
+  },
+  {
+    "nome": "Senador Jorge Kajuru",
+    "partido": "PSB",
+    "uf": "GO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5895"
+  },
+  {
+    "nome": "Deputado Jorge Solla",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178857"
+  },
+  {
+    "nome": "Deputado José Airton Félix Cirilo",
+    "partido": "PT",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141464"
+  },
+  {
+    "nome": "Deputado José Carlos Araujo",
+    "partido": "DC",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74140"
+  },
+  {
+    "nome": "Deputado Joseildo Ramos",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/209189"
+  },
+  {
+    "nome": "Deputado José Medeiros",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204472"
+  },
+  {
+    "nome": "Deputado José Nelto",
+    "partido": "UNIÃO",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204391"
+  },
+  {
+    "nome": "Deputado Josenildo",
+    "partido": "PDT",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220578"
+  },
+  {
+    "nome": "Deputado José Priante",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74079"
+  },
+  {
+    "nome": "Deputado José Rocha",
+    "partido": "UNIÃO",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74554"
+  },
+  {
+    "nome": "Deputado Josimar Maranhãozinho",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204563"
+  },
+  {
+    "nome": "Deputado Josivaldo Jp",
+    "partido": "UNIÃO",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/215043"
+  },
+  {
+    "nome": "Deputado Juarez Costa",
+    "partido": "REPUBLICANOS",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204474"
+  },
+  {
+    "nome": "Deputada Juliana Cardoso",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220640"
+  },
+  {
+    "nome": "Deputada Julia Zanatta",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220559"
+  },
+  {
+    "nome": "Deputado Julio Arcoverde",
+    "partido": "PP",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/66385"
+  },
+  {
+    "nome": "Deputado Júlio Cesar",
+    "partido": "PSD",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74317"
+  },
+  {
+    "nome": "Deputado Julio Cesar Ribeiro",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204372"
+  },
+  {
+    "nome": "Deputado Julio Lopes",
+    "partido": "PP",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74253"
+  },
+  {
+    "nome": "Deputado Juninho Do Pneu",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204457"
+  },
+  {
+    "nome": "Deputado Junio Amaral",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204520"
+  },
+  {
+    "nome": "Deputado Júnior Ferrari",
+    "partido": "PSD",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204497"
+  },
+  {
+    "nome": "Deputado Junior Lourenço",
+    "partido": "MDB",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204574"
+  },
+  {
+    "nome": "Deputado Júnior Mano",
+    "partido": "PSB",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204550"
+  },
+  {
+    "nome": "Deputado Juscelino Filho",
+    "partido": "PSDB",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178886"
+  },
+  {
+    "nome": "Senadora Jussara Lima",
+    "partido": "PSD",
+    "uf": "PI",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6369"
+  },
+  {
+    "nome": "Deputado Keniston Braga",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220677"
+  },
+  {
+    "nome": "Deputado Kiko Celeguim",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/162067"
+  },
+  {
+    "nome": "Deputado Kim Kataguiri",
+    "partido": "MISSÃO",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204536"
+  },
+  {
+    "nome": "Senador Laércio Oliveira",
+    "partido": "PP",
+    "uf": "SE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4811"
+  },
+  {
+    "nome": "Deputado Lafayette De Andrada",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/98057"
+  },
+  {
+    "nome": "Deputada Laura Carneiro",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74856"
+  },
+  {
+    "nome": "Deputada Leandre",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178832"
+  },
+  {
+    "nome": "Deputada Lêda Borges",
+    "partido": "REPUBLICANOS",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220566"
+  },
+  {
+    "nome": "Senadora Leila Barros",
+    "partido": "PDT",
+    "uf": "DF",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5979"
+  },
+  {
+    "nome": "Deputado Leonardo Gadelha",
+    "partido": "PODE",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/122195"
+  },
+  {
+    "nome": "Deputado Leonardo Monteiro",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74156"
+  },
+  {
+    "nome": "Deputado Leur Lomanto Júnior",
+    "partido": "UNIÃO",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/92102"
+  },
+  {
+    "nome": "Deputada Lídice Da Mata",
+    "partido": "PSB",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/139285"
+  },
+  {
+    "nome": "Deputado Lincoln Portela",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74585"
+  },
+  {
+    "nome": "Deputado Lindbergh Farias",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74858"
+  },
+  {
+    "nome": "Senadora Lourdinha Pereira",
+    "partido": "PSB",
+    "uf": "MA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6359"
+  },
+  {
+    "nome": "Senador Lucas Barreto",
+    "partido": "PSD",
+    "uf": "AP",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5926"
+  },
+  {
+    "nome": "Deputado Lucas Ramos",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220662"
+  },
+  {
+    "nome": "Deputado Lucas Redecker",
+    "partido": "PSD",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204404"
+  },
+  {
+    "nome": "Deputado Luciano Amaral",
+    "partido": "PSD",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220581"
+  },
+  {
+    "nome": "Deputado Luciano Bivar",
+    "partido": "MDB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74478"
+  },
+  {
+    "nome": "Deputado Luciano Ducci",
+    "partido": "PSB",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178931"
+  },
+  {
+    "nome": "Deputado Lucio Mosquini",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178954"
+  },
+  {
+    "nome": "Deputada Luisa Canziani",
+    "partido": "UNIÃO",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204410"
+  },
+  {
+    "nome": "Senador Luis Carlos Heinze",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/1186"
+  },
+  {
+    "nome": "Deputado Luis Tibé",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160510"
+  },
+  {
+    "nome": "Deputada Luiza Erundina",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74784"
+  },
+  {
+    "nome": "Deputado Luiz Carlos Busato",
+    "partido": "UNIÃO",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141485"
+  },
+  {
+    "nome": "Deputado Luiz Carlos Hauly",
+    "partido": "PODE",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73778"
+  },
+  {
+    "nome": "Deputado Luiz Carlos Motta",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204485"
+  },
+  {
+    "nome": "Deputado Luiz Couto",
+    "partido": "PT",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74041"
+  },
+  {
+    "nome": "Deputado Luiz Fernando Faria",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141487"
+  },
+  {
+    "nome": "Deputado Luiz Gastão",
+    "partido": "PSD",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220658"
+  },
+  {
+    "nome": "Deputada Luizianne Lins",
+    "partido": "REDE",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178866"
+  },
+  {
+    "nome": "Deputado Luiz Lima",
+    "partido": "NOVO",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204455"
+  },
+  {
+    "nome": "Deputado Luiz Nishimori",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/162332"
+  },
+  {
+    "nome": "Deputado Luiz Philippe De Orleans E Bragança",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204526"
+  },
+  {
+    "nome": "Deputado Lula Da Fonte",
+    "partido": "PP",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220669"
+  },
+  {
+    "nome": "Deputada Magda Mofatto",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/166402"
+  },
+  {
+    "nome": "Senador Magno Malta",
+    "partido": "PL",
+    "uf": "ES",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/631"
+  },
+  {
+    "nome": "Senadora Mara Gabrilli",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5376"
+  },
+  {
+    "nome": "Deputado Marangoni",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220648"
+  },
+  {
+    "nome": "Deputado Marcelo Álvaro Antônio",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/179000"
+  },
+  {
+    "nome": "Senador Marcelo Castro",
+    "partido": "MDB",
+    "uf": "PI",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/742"
+  },
+  {
+    "nome": "Deputado Marcelo Crivella",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220599"
+  },
+  {
+    "nome": "Deputado Marcelo Moraes",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/133810"
+  },
+  {
+    "nome": "Deputado Marcelo Nilo",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204558"
+  },
+  {
+    "nome": "Deputado Marcelo Queiroz",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160161"
+  },
+  {
+    "nome": "Deputado Marcel Van Hattem",
+    "partido": "NOVO",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/156190"
+  },
+  {
+    "nome": "Deputado Marcio Alvino",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178983"
+  },
+  {
+    "nome": "Deputado Márcio Biolchi",
+    "partido": "MDB",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/179001"
+  },
+  {
+    "nome": "Senador Marcio Bittar",
+    "partido": "PL",
+    "uf": "AC",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/285"
+  },
+  {
+    "nome": "Deputado Márcio Honaiser",
+    "partido": "SOLIDARIEDADE",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220687"
+  },
+  {
+    "nome": "Deputado Márcio Jerry",
+    "partido": "PCdoB",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/81055"
+  },
+  {
+    "nome": "Deputado Márcio Marinho",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/150418"
+  },
+  {
+    "nome": "Deputado Marcon",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160535"
+  },
+  {
+    "nome": "Deputado Marcos Aurélio Sampaio",
+    "partido": "MDB",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204431"
+  },
+  {
+    "nome": "Deputado Marcos Braz",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/236375"
+  },
+  {
+    "nome": "Senador Marcos do Val",
+    "partido": "AVANTE",
+    "uf": "ES",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5942"
+  },
+  {
+    "nome": "Deputado Marcos Pereira",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204506"
+  },
+  {
+    "nome": "Deputado Marcos Pollon",
+    "partido": "PL",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220547"
+  },
+  {
+    "nome": "Senador Marcos Rogério",
+    "partido": "PL",
+    "uf": "RO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5422"
+  },
+  {
+    "nome": "Deputado Marcos Soares",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178943"
+  },
+  {
+    "nome": "Deputado Marcos Tavares",
+    "partido": "PDT",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220604"
+  },
+  {
+    "nome": "Deputada Maria Arraes",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220668"
+  },
+  {
+    "nome": "Deputada Maria Do Rosário",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74398"
+  },
+  {
+    "nome": "Deputada Maria Rosas",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204540"
+  },
+  {
+    "nome": "Deputada Marina Silva",
+    "partido": "REDE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220637"
+  },
+  {
+    "nome": "Deputado Mario Frias",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220655"
+  },
+  {
+    "nome": "Deputado Mário Heringer",
+    "partido": "PDT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74158"
+  },
+  {
+    "nome": "Deputado Mário Negromonte Jr.",
+    "partido": "PSB",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178858"
+  },
+  {
+    "nome": "Deputado Marreca Filho",
+    "partido": "PRD",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204566"
+  },
+  {
+    "nome": "Deputada Marussa Boldrin",
+    "partido": "REPUBLICANOS",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220572"
+  },
+  {
+    "nome": "Deputado Marx Beltrão",
+    "partido": "UNIÃO",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178843"
+  },
+  {
+    "nome": "Deputado Matheus Noronha",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220661"
+  },
+  {
+    "nome": "Deputado Maurício Carvalho",
+    "partido": "UNIÃO",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220609"
+  },
+  {
+    "nome": "Deputado Mauricio Do Vôlei",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220628"
+  },
+  {
+    "nome": "Deputado Mauricio Marcon",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220550"
+  },
+  {
+    "nome": "Deputado Mauricio Neves",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220647"
+  },
+  {
+    "nome": "Deputado Mauro Benevides Filho",
+    "partido": "UNIÃO",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204486"
+  },
+  {
+    "nome": "Deputado Max Lemos",
+    "partido": "UNIÃO",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220607"
+  },
+  {
+    "nome": "Deputada Meire Serafim",
+    "partido": "UNIÃO",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220591"
+  },
+  {
+    "nome": "Deputado Mendonça Filho",
+    "partido": "PL",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74428"
+  },
+  {
+    "nome": "Deputado Merlong Solano",
+    "partido": "PT",
+    "uf": "PI",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/188097"
+  },
+  {
+    "nome": "Deputado Mersinho Lucena",
+    "partido": "PSD",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220585"
+  },
+  {
+    "nome": "Deputado Messias Donato",
+    "partido": "UNIÃO",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220530"
+  },
+  {
+    "nome": "Deputado Miguel Ângelo",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/171786"
+  },
+  {
+    "nome": "Deputado Miguel Lombardi",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178985"
+  },
+  {
+    "nome": "Deputado Milton Vieira",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/154178"
+  },
+  {
+    "nome": "Deputado Misael Varella",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178895"
+  },
+  {
+    "nome": "Deputado Missionário José Olimpio",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160561"
+  },
+  {
+    "nome": "Deputado Moses Rodrigues",
+    "partido": "UNIÃO",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178997"
+  },
+  {
+    "nome": "Deputado Murillo Gouvea",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220617"
+  },
+  {
+    "nome": "Deputada Natália Bonavides",
+    "partido": "PT",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204453"
+  },
+  {
+    "nome": "Senador Nelsinho Trad",
+    "partido": "PSD",
+    "uf": "MS",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5985"
+  },
+  {
+    "nome": "Deputado Nelson Barbudo",
+    "partido": "PODE",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204449"
+  },
+  {
+    "nome": "Deputada Nely Aquino",
+    "partido": "PODE",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220622"
+  },
+  {
+    "nome": "Deputado Neto Carletto",
+    "partido": "AVANTE",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220703"
+  },
+  {
+    "nome": "Deputado Newton Cardoso Jr",
+    "partido": "MDB",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178896"
+  },
+  {
+    "nome": "Deputado Nicoletti",
+    "partido": "PL",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204479"
+  },
+  {
+    "nome": "Deputado Nikolas Ferreira",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/209787"
+  },
+  {
+    "nome": "Deputado Nilto Tatto",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178986"
+  },
+  {
+    "nome": "Deputado Nivaldo Albuquerque",
+    "partido": "UNIÃO",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/194260"
+  },
+  {
+    "nome": "Deputado Olival Marques",
+    "partido": "PODE",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204498"
+  },
+  {
+    "nome": "Senador Omar Aziz",
+    "partido": "PSD",
+    "uf": "AM",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5525"
+  },
+  {
+    "nome": "Senador Oriovisto Guimarães",
+    "partido": "PSDB",
+    "uf": "PR",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5924"
+  },
+  {
+    "nome": "Deputado Orlando Silva",
+    "partido": "PCdoB",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178987"
+  },
+  {
+    "nome": "Deputado Osmar Terra",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73692"
+  },
+  {
+    "nome": "Deputado Otoni De Paula",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204441"
+  },
+  {
+    "nome": "Senador Otto Alencar",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5523"
+  },
+  {
+    "nome": "Deputado Padre João",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160556"
+  },
+  {
+    "nome": "Deputado Pastor Diniz",
+    "partido": "UNIÃO",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/180214"
+  },
+  {
+    "nome": "Deputado Pastor Eurico",
+    "partido": "PSDB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160642"
+  },
+  {
+    "nome": "Deputado Pastor Gil",
+    "partido": "PL",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204570"
+  },
+  {
+    "nome": "Deputado Pastor Henrique Vieira",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220615"
+  },
+  {
+    "nome": "Deputado Pastor Sargento Isidório",
+    "partido": "AVANTE",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204553"
+  },
+  {
+    "nome": "Deputado Patrus Ananias",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74160"
+  },
+  {
+    "nome": "Deputado Paulinho Da Força",
+    "partido": "SOLIDARIEDADE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141518"
+  },
+  {
+    "nome": "Deputado Paulo Abi-ackel",
+    "partido": "PSDB",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141516"
+  },
+  {
+    "nome": "Deputado Paulo Alexandre Barbosa",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220650"
+  },
+  {
+    "nome": "Deputado Paulo Azi",
+    "partido": "UNIÃO",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178860"
+  },
+  {
+    "nome": "Deputado Paulo Folletto",
+    "partido": "PSB",
+    "uf": "ES",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160517"
+  },
+  {
+    "nome": "Deputado Paulo Freire Costa",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160558"
+  },
+  {
+    "nome": "Deputado Paulo Guedes",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204492"
+  },
+  {
+    "nome": "Deputado Paulo Lemos",
+    "partido": "PT",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/233592"
+  },
+  {
+    "nome": "Deputado Paulo Litro",
+    "partido": "UNIÃO",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220685"
+  },
+  {
+    "nome": "Deputado Paulo Magalhães",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74574"
+  },
+  {
+    "nome": "Senador Paulo Paim",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/825"
+  },
+  {
+    "nome": "Deputado Paulo Pimenta",
+    "partido": "PT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74400"
+  },
+  {
+    "nome": "Deputado Paulo Soares",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/154700"
+  },
+  {
+    "nome": "Deputado Paulo Teixeira",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141488"
+  },
+  {
+    "nome": "Deputado Pedro Aihara",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220630"
+  },
+  {
+    "nome": "Deputado Pedro Campos",
+    "partido": "PSB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220667"
+  },
+  {
+    "nome": "Deputado Pedro Lucas Fernandes",
+    "partido": "UNIÃO",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/122974"
+  },
+  {
+    "nome": "Deputado Pedro Lupion",
+    "partido": "REPUBLICANOS",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204395"
+  },
+  {
+    "nome": "Deputado Pedro Paulo",
+    "partido": "PSD",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/122158"
+  },
+  {
+    "nome": "Deputado Pedro Uczai",
+    "partido": "PT",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160604"
+  },
+  {
+    "nome": "Deputado Pedro Westphalen",
+    "partido": "PP",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204406"
+  },
+  {
+    "nome": "Deputado Pezenti",
+    "partido": "MDB",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/161440"
+  },
+  {
+    "nome": "Deputado Pinheirinho",
+    "partido": "PP",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204524"
+  },
+  {
+    "nome": "Senador Plínio Valério",
+    "partido": "PSDB",
+    "uf": "AM",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5502"
+  },
+  {
+    "nome": "Deputado Pompeo De Mattos",
+    "partido": "PDT",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73486"
+  },
+  {
+    "nome": "Deputado Pr. Marco Feliciano",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160601"
+  },
+  {
+    "nome": "Deputada Priscila Costa",
+    "partido": "PL",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/226075"
+  },
+  {
+    "nome": "Deputado Prof. Reginaldo Veras",
+    "partido": "PV",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220533"
+  },
+  {
+    "nome": "Senadora Professora Dorinha Seabra",
+    "partido": "UNIÃO",
+    "uf": "TO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5386"
+  },
+  {
+    "nome": "Deputado Professor Alcides",
+    "partido": "PSDB",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204390"
+  },
+  {
+    "nome": "Deputada Professora Luciene Cavalcante",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/221338"
+  },
+  {
+    "nome": "Deputada Professora Marcivania",
+    "partido": "PCdoB",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160641"
+  },
+  {
+    "nome": "Deputado Rafael Brito",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220586"
+  },
+  {
+    "nome": "Deputado Rafael Fera",
+    "partido": "PODE",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/233594"
+  },
+  {
+    "nome": "Deputado Rafael Prudente",
+    "partido": "MDB",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220532"
+  },
+  {
+    "nome": "Deputado Rafael Simoes",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220626"
+  },
+  {
+    "nome": "Deputado Raimundo Costa",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204567"
+  },
+  {
+    "nome": "Deputado Raimundo Santos",
+    "partido": "PSD",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74084"
+  },
+  {
+    "nome": "Senador Randolfe Rodrigues",
+    "partido": "PT",
+    "uf": "AP",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5012"
+  },
+  {
+    "nome": "Deputado Raniery Paulino",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/115200"
+  },
+  {
+    "nome": "Deputado Reginaldo Lopes",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74161"
+  },
+  {
+    "nome": "Deputado Reimont",
+    "partido": "PT",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220606"
+  },
+  {
+    "nome": "Senador Renan Calheiros",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/70"
+  },
+  {
+    "nome": "Senador Renan Filho",
+    "partido": "MDB",
+    "uf": "AL",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5207"
+  },
+  {
+    "nome": "Deputada Renilce Nicodemos",
+    "partido": "MDB",
+    "uf": "PA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/153423"
+  },
+  {
+    "nome": "Deputado Renildo Calheiros",
+    "partido": "PCdoB",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73801"
+  },
+  {
+    "nome": "Deputado Ribamar Silva",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/175765"
+  },
+  {
+    "nome": "Deputado Ricardo Abrão",
+    "partido": "PSDB",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/221329"
+  },
+  {
+    "nome": "Deputado Ricardo Ayres",
+    "partido": "REPUBLICANOS",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220543"
+  },
+  {
+    "nome": "Deputado Ricardo Barros",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73788"
+  },
+  {
+    "nome": "Deputado Ricardo Guidi",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204362"
+  },
+  {
+    "nome": "Deputado Ricardo Maia",
+    "partido": "MDB",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220694"
+  },
+  {
+    "nome": "Deputado Ricardo Salles",
+    "partido": "NOVO",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220633"
+  },
+  {
+    "nome": "Deputado Robério Monteiro",
+    "partido": "PSB",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204489"
+  },
+  {
+    "nome": "Senadora Roberta Acioly",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6025"
+  },
+  {
+    "nome": "Deputada Roberta Roma",
+    "partido": "PL",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220693"
+  },
+  {
+    "nome": "Deputado Roberto Duarte",
+    "partido": "REPUBLICANOS",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220588"
+  },
+  {
+    "nome": "Deputado Roberto Monteiro Pai",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220613"
+  },
+  {
+    "nome": "Deputado Robinson Faria",
+    "partido": "PP",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220624"
+  },
+  {
+    "nome": "Deputado Rodolfo Nogueira",
+    "partido": "PL",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220546"
+  },
+  {
+    "nome": "Deputado Rodrigo Da Zaeli",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/230767"
+  },
+  {
+    "nome": "Deputado Rodrigo De Castro",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141531"
+  },
+  {
+    "nome": "Deputado Rodrigo Gambale",
+    "partido": "PODE",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220641"
+  },
+  {
+    "nome": "Senador Rodrigo Pacheco",
+    "partido": "PSB",
+    "uf": "MG",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5732"
+  },
+  {
+    "nome": "Deputado Rodrigo Rollemberg",
+    "partido": "PSB",
+    "uf": "DF",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141533"
+  },
+  {
+    "nome": "Deputado Rodrigo Valadares",
+    "partido": "PL",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/165470"
+  },
+  {
+    "nome": "Deputada Rogéria Santos",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220695"
+  },
+  {
+    "nome": "Senador Rogério Carvalho",
+    "partido": "PT",
+    "uf": "SE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5352"
+  },
+  {
+    "nome": "Deputado Rogério Correia",
+    "partido": "PT",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204480"
+  },
+  {
+    "nome": "Senador Rogerio Marinho",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4694"
+  },
+  {
+    "nome": "Senador Romário",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5322"
+  },
+  {
+    "nome": "Deputada Rosana Valle",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204525"
+  },
+  {
+    "nome": "Deputada Rosangela Gomes",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178945"
+  },
+  {
+    "nome": "Deputada Rosangela Moro",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220644"
+  },
+  {
+    "nome": "Deputada Rosângela Reis",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220620"
+  },
+  {
+    "nome": "Deputada Roseana Sarney",
+    "partido": "MDB",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73806"
+  },
+  {
+    "nome": "Deputado Rubens Otoni",
+    "partido": "PT",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74371"
+  },
+  {
+    "nome": "Deputado Rubens Pereira Júnior",
+    "partido": "PT",
+    "uf": "MA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178887"
+  },
+  {
+    "nome": "Deputado Rui Falcão",
+    "partido": "PT",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73604"
+  },
+  {
+    "nome": "Deputado Ruy Carneiro",
+    "partido": "PODE",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160635"
+  },
+  {
+    "nome": "Deputada Sâmia Bomfim",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204535"
+  },
+  {
+    "nome": "Deputado Samuel Viana",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220631"
+  },
+  {
+    "nome": "Deputado Sanderson",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204416"
+  },
+  {
+    "nome": "Deputado Sandro Alex",
+    "partido": "PSD",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160621"
+  },
+  {
+    "nome": "Deputado Santin Roveda",
+    "partido": "UNIÃO",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/236518"
+  },
+  {
+    "nome": "Deputado Sargento Fahur",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204387"
+  },
+  {
+    "nome": "Deputado Sargento Gonçalves",
+    "partido": "PL",
+    "uf": "RN",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220621"
+  },
+  {
+    "nome": "Deputado Sargento Portugal",
+    "partido": "PODE",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220618"
+  },
+  {
+    "nome": "Deputado Saullo Vianna",
+    "partido": "MDB",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220713"
+  },
+  {
+    "nome": "Deputado Saulo Pedroso",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/226837"
+  },
+  {
+    "nome": "Deputado Sérgio Brito",
+    "partido": "PSD",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/73808"
+  },
+  {
+    "nome": "Senador Sergio Moro",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6331"
+  },
+  {
+    "nome": "Senador Sérgio Petecão",
+    "partido": "PSD",
+    "uf": "AC",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/4560"
+  },
+  {
+    "nome": "Deputado Sergio Souza",
+    "partido": "MDB",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178933"
+  },
+  {
+    "nome": "Deputado Sidney Leite",
+    "partido": "PSD",
+    "uf": "AM",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204557"
+  },
+  {
+    "nome": "Deputada Silvia Cristina",
+    "partido": "PP",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204360"
+  },
+  {
+    "nome": "Deputado Silvio Costa Filho",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204425"
+  },
+  {
+    "nome": "Deputada Silvye Alves",
+    "partido": "UNIÃO",
+    "uf": "GO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220569"
+  },
+  {
+    "nome": "Deputada Simone Marquetto",
+    "partido": "PP",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220651"
+  },
+  {
+    "nome": "Deputada Socorro Neri",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/104552"
+  },
+  {
+    "nome": "Deputada Sônia Guajajara",
+    "partido": "PSOL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220643"
+  },
+  {
+    "nome": "Deputada Soraya Santos",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178946"
+  },
+  {
+    "nome": "Senadora Soraya Thronicke",
+    "partido": "PSB",
+    "uf": "MS",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5988"
+  },
+  {
+    "nome": "Deputado Sóstenes Cavalcante",
+    "partido": "PL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178947"
+  },
+  {
+    "nome": "Deputado Stefano Aguiar",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/92776"
+  },
+  {
+    "nome": "Senador Styvenson Valentim",
+    "partido": "PODEMOS",
+    "uf": "RN",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5959"
+  },
+  {
+    "nome": "Deputada Tabata Amaral",
+    "partido": "PSB",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204534"
+  },
+  {
+    "nome": "Deputado Tadeu Veneri",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220682"
+  },
+  {
+    "nome": "Deputada Talíria Petrone",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204464"
+  },
+  {
+    "nome": "Deputado Tarcísio Motta",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220598"
+  },
+  {
+    "nome": "Senadora Teresa Leitão",
+    "partido": "PT",
+    "uf": "PE",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/6338"
+  },
+  {
+    "nome": "Senadora Tereza Cristina",
+    "partido": "PP",
+    "uf": "MS",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5736"
+  },
+  {
+    "nome": "Deputado Thiago De Joaldo",
+    "partido": "REPUBLICANOS",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220560"
+  },
+  {
+    "nome": "Deputado Thiago Flores",
+    "partido": "UNIÃO",
+    "uf": "RO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220597"
+  },
+  {
+    "nome": "Deputado Tiago Dimas",
+    "partido": "PODE",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/143084"
+  },
+  {
+    "nome": "Deputado Tião Medeiros",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220684"
+  },
+  {
+    "nome": "Deputado Tiririca",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160976"
+  },
+  {
+    "nome": "Deputado Toninho Wandscheer",
+    "partido": "PP",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178934"
+  },
+  {
+    "nome": "Deputado Túlio Gadêlha",
+    "partido": "PSD",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/157130"
+  },
+  {
+    "nome": "Deputado Valdir Trindade",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/236423"
+  },
+  {
+    "nome": "Deputado Valmir Assunção",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160610"
+  },
+  {
+    "nome": "Senador Vanderlan Cardoso",
+    "partido": "PSD",
+    "uf": "GO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5899"
+  },
+  {
+    "nome": "Deputado Vander Loubet",
+    "partido": "PT",
+    "uf": "MS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74376"
+  },
+  {
+    "nome": "Senador Veneziano Vital do Rêgo",
+    "partido": "MDB",
+    "uf": "PB",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5748"
+  },
+  {
+    "nome": "Deputado Vermelho",
+    "partido": "PL",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204396"
+  },
+  {
+    "nome": "Deputado Vicentinho Júnior",
+    "partido": "PSDB",
+    "uf": "TO",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/137070"
+  },
+  {
+    "nome": "Deputado Vinicius Carvalho",
+    "partido": "PL",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/141555"
+  },
+  {
+    "nome": "Deputado Vinicius Gurgel",
+    "partido": "PL",
+    "uf": "AP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160591"
+  },
+  {
+    "nome": "Deputado Vitor Lippi",
+    "partido": "PSD",
+    "uf": "SP",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/178992"
+  },
+  {
+    "nome": "Deputado Waldemar Oliveira",
+    "partido": "AVANTE",
+    "uf": "PE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/91228"
+  },
+  {
+    "nome": "Deputado Waldenor Pereira",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160569"
+  },
+  {
+    "nome": "Deputado Weliton Prado",
+    "partido": "PSD",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160518"
+  },
+  {
+    "nome": "Senador Wellington Fagundes",
+    "partido": "PL",
+    "uf": "MT",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/1173"
+  },
+  {
+    "nome": "Deputado Wellington Roberto",
+    "partido": "PSD",
+    "uf": "PB",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/74043"
+  },
+  {
+    "nome": "Deputado Welter",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/224333"
+  },
+  {
+    "nome": "Senador Weverton",
+    "partido": "PDT",
+    "uf": "MA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5411"
+  },
+  {
+    "nome": "Senador Wilder Morais",
+    "partido": "PL",
+    "uf": "GO",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5070"
+  },
+  {
+    "nome": "Deputada Yandra Moura",
+    "partido": "UNIÃO",
+    "uf": "SE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220564"
+  },
+  {
+    "nome": "Deputado Yury Do Paredão",
+    "partido": "MDB",
+    "uf": "CE",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220660"
+  },
+  {
+    "nome": "Deputado Zé Adriano",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/230768"
+  },
+  {
+    "nome": "Deputado Zeca Dirceu",
+    "partido": "PT",
+    "uf": "PR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160592"
+  },
+  {
+    "nome": "Deputado Zé Haroldo Cathedral",
+    "partido": "UNIÃO",
+    "uf": "RR",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220536"
+  },
+  {
+    "nome": "Senadora Zenaide Maia",
+    "partido": "PSD",
+    "uf": "RN",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5783"
+  },
+  {
+    "nome": "Deputado Zé Neto",
+    "partido": "PT",
+    "uf": "BA",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204559"
+  },
+  {
+    "nome": "Senador Zequinha Marinho",
+    "partido": "PODEMOS",
+    "uf": "PA",
+    "casa": "Senado Federal",
+    "codigo_casa": "SF",
+    "pagina_parlamentar": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/3806"
+  },
+  {
+    "nome": "Deputado Zé Silva",
+    "partido": "UNIÃO",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/160632"
+  },
+  {
+    "nome": "Deputado Zé Trovão",
+    "partido": "PL",
+    "uf": "SC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220558"
+  },
+  {
+    "nome": "Deputado Zé Vitor",
+    "partido": "PL",
+    "uf": "MG",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/204517"
+  },
+  {
+    "nome": "Deputado Zezinho Barbary",
+    "partido": "PP",
+    "uf": "AC",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220592"
+  },
+  {
+    "nome": "Deputado Zucco",
+    "partido": "PL",
+    "uf": "RS",
+    "casa": "Camara dos Deputados",
+    "codigo_casa": "CD",
+    "pagina_parlamentar": "https://www.camara.leg.br/deputados/220552"
+  }
+]

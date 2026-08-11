@@ -1,0 +1,18 @@
+Relatório de Contatos — Projeto Alpha
+Gerado em: 21/03/2026
+1. Ana Paula Souza
+CPF: 123.456.789-09
+Telefone: (11) 9 8765-4321
+E-mail: ana.paula@empresa.com.br
+2. Bruno Costa Lima
+CPF: 987.654.321-00
+Contato: (21) 98765-1234 ou brunocosta@gmail.com
+3. Carla Mendes
+Documento: 456.789.012-34
+Tel: (31) 3344-5566
+Email: c.mendes@corp.org / carla.mendes1990@hotmail.com
+4. Diego Ferreira
+CPF 78901234567 (sem pontuação)
+Fone: 11 987654321
+diego.ferreira@startup.io
+OBS: Dados fictícios para fins exclusivamente didáticos.

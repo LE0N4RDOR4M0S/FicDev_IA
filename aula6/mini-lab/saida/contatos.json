@@ -1,0 +1,43 @@
+[
+  {
+    "nome": "Ana Paula Souza",
+    "cpf": "123.456.789-09",
+    "telefones": [
+      "(11) 98765-4321"
+    ],
+    "emails": [
+      "ana.paula@empresa.com.br"
+    ]
+  },
+  {
+    "nome": "Bruno Costa Lima",
+    "cpf": "987.654.321-00",
+    "telefones": [
+      "(21) 98765-1234"
+    ],
+    "emails": [
+      "brunocosta@gmail.com"
+    ]
+  },
+  {
+    "nome": "Carla Mendes",
+    "cpf": "456.789.012-34",
+    "telefones": [
+      "(31) 3344-5566"
+    ],
+    "emails": [
+      "c.mendes@corp.org",
+      "carla.mendes1990@hotmail.com"
+    ]
+  },
+  {
+    "nome": "Diego Ferreira",
+    "cpf": "789.012.345-67",
+    "telefones": [
+      "(11) 98765-4321"
+    ],
+    "emails": [
+      "diego.ferreira@startup.io"
+    ]
+  }
+]
