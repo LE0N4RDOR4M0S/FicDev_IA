@@ -1,0 +1,9 @@
+{
+  "turma": "Python para IA — 2025/1",
+  "professor": "Edie Correia Santana",
+  "nota_aprovacao": 7.0,
+  "alunos": [
+    {"id": 1, "nome": "Ana Lima",    "curso": "Ciência de Dados",      "notas": [8.5, 9.0, 7.5]}
+  ]
+}
+
