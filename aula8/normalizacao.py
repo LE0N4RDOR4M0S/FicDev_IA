@@ -2,8 +2,8 @@ import numpy as np
 
 dados = np.array([[1, 2, 3, 4, 5, 6, 7, 8, 9]], dtype=np.float32)
 
-x_min = dados.min(axis=0)
-x_max = dados.max(axis=0)
+x_min = dados.min()
+x_max = dados.max()
 
 print("Mínimos por coluna:", x_min)
 print("Máximos por coluna:", x_max)
