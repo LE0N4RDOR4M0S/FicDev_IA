@@ -95,3 +95,4 @@ ax.set_ylim(0, 35)
 plt.tight_layout()
 plt.savefig('grafico_barras_vertical.png', dpi=150, bbox_inches='tight')
 plt.show()
+
