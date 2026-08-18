@@ -25,7 +25,7 @@ scaler_std = StandardScaler()
 colunas_numericas = ['media', 'faltas']
 
 df_scaled = df_encoded.copy()
-df_scaled[colunas_numericas] = scaler_std.fit_transform(
+df_scaled[colunas_numericas] = scaler_std.fit_trwansform(
     df_encoded[colunas_numericas]
 )
 print(df_scaled[colunas_numericas].describe())
