@@ -5,11 +5,11 @@
     "titulo": "documento",
     "autor": "Desconhecido",
     "produtor": "Adobe PDF Library 16.0.7",
-    "extraido_em": "2026-08-20T15:21:23",
+    "extraido_em": "2026-08-20T15:52:52",
     "biblioteca": "pdfplumber",
     "metodo_chunk": "tamanho",
-    "chunk_size": 800,
-    "chunk_overlap": 150,
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
     "aviso_escaneado": false
   },
   "paginas": [
