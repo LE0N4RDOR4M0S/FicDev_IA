@@ -1,0 +1,7 @@
+pytesseract
+easyocr
+Pillow
+opencv-python
+pdf2image
+spacy
+nltk
